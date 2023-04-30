@@ -6,6 +6,6 @@ Use Vitis platform:
 
     Vitis HLS: Convert C to RTL  => IP core
     
-    ViVaDo   : Gen bitstream.
+    Vivado   : Gen bitstream.
     
     Vitis    : Hardware - Software Co - Design
